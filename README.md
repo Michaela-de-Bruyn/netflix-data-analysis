@@ -16,7 +16,7 @@ The goal of this project is to analyze Netflix's public content data to uncover:
 ## Sample Insights
 
 ### Content Type Distribution  
-![Content Type Distribution](images/netflix content.png)  
+![Content Type Distribution](images/netflix content.png) 
 Conclusion: Most Netflix content is Movies 
 
 ### Yearly Release Trends  
