@@ -17,18 +17,22 @@ The goal of this project is to analyze Netflix's public content data to uncover:
 
 ### Content Type Distribution  
 ![Content Type Distribution](images/netflix_content.png) 
+
 Conclusion: Most Netflix content is Movies 
 
 ### Yearly Release Trends  
 ![Yearly Release Trends](images/titles_per_year.png)  
+
 Conclusion: 2018 had the highest number of releases.
 
 ### Top Production Countries  
 ![Top Production Countries](images/top_countries.png)  
+
 Conclusion: The United States is the top content producer.
 
 ### Popular Genres  
 ![Popular Genres](images/top_genres.png)  
+
 Conclusion: Genres like Drama and Comedy dominate Netflix's catalog.
 
 ## How to Run
